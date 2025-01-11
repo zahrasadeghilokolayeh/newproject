@@ -414,6 +414,87 @@
             ]
         },
         {
+            "id": "https://zahrasadeghilokolayeh.github.io/newproject/images/photo_2025-01-11_09-27-24/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "photo_2025-01-11_09-27-24"
+                ]
+            },
+            "height": 1000,
+            "width": 1000,
+            "items": [
+                {
+                    "id": "https://zahrasadeghilokolayeh.github.io/newproject/images/photo_2025-01-11_09-27-24/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://zahrasadeghilokolayeh.github.io/newproject/images/photo_2025-01-11_09-27-24/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://zahrasadeghilokolayeh.github.io/newproject/images/photo_2025-01-11_09-27-24/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 32,
+                                                "height": 32
+                                            },
+                                            {
+                                                "width": 63,
+                                                "height": 63
+                                            },
+                                            {
+                                                "width": 125,
+                                                "height": 125
+                                            },
+                                            {
+                                                "width": 250,
+                                                "height": 250
+                                            },
+                                            {
+                                                "width": 500,
+                                                "height": 500
+                                            },
+                                            {
+                                                "width": 1000,
+                                                "height": 1000
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1000,
+                                        "@id": "https://zahrasadeghilokolayeh.github.io/newproject/images/photo_2025-01-11_09-27-24",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1000,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://zahrasadeghilokolayeh.github.io/newproject/images/photo_2025-01-11_09-27-24/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://zahrasadeghilokolayeh.github.io/newproject/images/photo_2025-01-11_09-27-39/canvas/",
             "type": "Canvas",
             "label": {
