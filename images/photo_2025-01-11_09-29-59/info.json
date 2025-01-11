@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 32,
+    "height" : 32
+  }, {
+    "width" : 63,
+    "height" : 63
+  }, {
+    "width" : 125,
+    "height" : 125
+  }, {
+    "width" : 250,
+    "height" : 250
+  }, {
+    "width" : 500,
+    "height" : 500
+  }, {
+    "width" : 1000,
+    "height" : 1000
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1000,
+  "@id" : "https://zahrasadeghilokolayeh.github.io/newproject/images/photo_2025-01-11_09-29-59",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1000
+}
